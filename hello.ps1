@@ -1,2 +1,2 @@
 # create a simple PowerShell script
-"Write-Host 'Hello World from Jenkins!'" | Out-File hello.ps1 -Encoding utf8
+Write-Output "Hello World from Jenkins!"
